@@ -1,0 +1,10 @@
+# Ignore everything in the repository by default
+/*
+
+# Allow only these specific files for the GitHub Pages showcase
+!.gitignore
+!.nojekyll
+!index.html
+!README.md
+!README*
+!readme*
